@@ -37,7 +37,8 @@ src="https://img.shields.io/github/followers/recai42?logo=github&style=for-the-b
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
 ![snake gif]
-https://github.com/recai42/recai42/blob/output/github-contribution-grid-snake.gif
+(https://github.com/recai42/recai42/blob/output/github-contribution-grid-snake.gif)
 
 
